@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">readDataFromSqliteDatabaseDemo10</string>
+
+    <string name="name">Name :</string>
+    <string name="age">Age :</string>
+    <string name="gender">Gender :</string>
+    <string name="add">Add</string>
+    <string name="show_data">Show Data</string>
+
+</resources>
